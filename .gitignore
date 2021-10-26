@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/.idea/
+online-shop.iml
